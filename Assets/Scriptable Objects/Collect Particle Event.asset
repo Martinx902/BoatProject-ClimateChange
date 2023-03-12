@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af912093aa153114a8577943f51cb3ef, type: 3}
+  m_Name: Collect Particle Event
+  m_EditorClassIdentifier: 
+  particleSystem: {fileID: 6868262988754029522, guid: 688154b75db98a5498856556455aa9ef,
+    type: 3}
