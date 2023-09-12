@@ -1,4 +1,4 @@
-# BoatProject-ClimateChange
+# Sail That Trash!
 
 Boat mechanics, buoyancy and water shader test project. 
 
